@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: About
+permalink: /about/
+---
 # Yilin Zhu's Academic Profile
 
 **Contact Information:**
